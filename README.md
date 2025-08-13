@@ -9,3 +9,8 @@ This repository serves as:
 
 This repo stores **all my GitHub-related badges** for quick use in future projects.  
 Browse, copy the Markdown/HTML, and paste into your `README.md`.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1) YOLO Badge
+   https://github.com/users/Catherine-23-Codes/achievements/yolo
