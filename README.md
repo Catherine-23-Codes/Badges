@@ -7,3 +7,5 @@ This repository serves as:
 2. A **ready-to-use code bank** for quick integration into `README.md` files.
 
 
+This repo stores **all my GitHub-related badges** for quick use in future projects.  
+Browse, copy the Markdown/HTML, and paste into your `README.md`.
