@@ -8,7 +8,7 @@ This repository serves as:
 
 
 This repo stores **all my GitHub-related badges** for quick use in future projects.  
-Click the links to view the badges
+Click the below links to view the badges
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1) Pull-Shark
