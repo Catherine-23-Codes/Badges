@@ -8,8 +8,7 @@ This repository serves as:
 
 
 This repo stores **all my GitHub-related badges** for quick use in future projects.  
-Browse, copy the Markdown/HTML, and paste into your `README.md`.
-
+Click the links to view the badges
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1) Pull-Shark
