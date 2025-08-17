@@ -1,19 +1,20 @@
-#  GitHub Badges Reference---
+# GitHub Badges Reference---
 
-This repo is my quick reference for all kinds of **GitHub badges** — build status, version, downloads, license, and more.
+This repo is my quick reference for all kinds of **GitHub badges** — build status, version, downloads, license, and more...
 
 This repository serves as:
+
 1. A **reference sheet** for badge styles and sources.
 2. A **ready-to-use code bank** for quick integration into `README.md` files.
 
-
 This repo stores **all my GitHub-related badges** for quick use in future projects.  
 Click the below links to view the badges
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1) Pull-Shark
-     https://github.com/users/Catherine-23-Codes/achievements/pull-shark
-2) YOLO Badge
-     https://github.com/users/Catherine-23-Codes/achievements/yolo
-3) Quick Draw
-     https://github.com/users/Catherine-23-Codes/achievements/quickdraw
+---
+
+1. Pull-Shark
+   https://github.com/users/Catherine-23-Codes/achievements/pull-shark
+2. YOLO Badge
+   https://github.com/users/Catherine-23-Codes/achievements/yolo
+3. Quick Draw
+   https://github.com/users/Catherine-23-Codes/achievements/quickdraw
