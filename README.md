@@ -1,4 +1,4 @@
-#  GitHub Badges Reference 
+#  GitHub Badges Reference---
 
 This repo is my quick reference for all kinds of **GitHub badges** — build status, version, downloads, license, and more.
 
