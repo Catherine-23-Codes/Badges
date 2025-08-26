@@ -10,7 +10,7 @@ This repository serves as:
 This repo stores **all my GitHub-related badges** for quick use in future projects.  
 Click the below links to view the badges
 
----
+---------------------------
 
 1. Pull-Shark
    https://github.com/users/Catherine-23-Codes/achievements/pull-shark
